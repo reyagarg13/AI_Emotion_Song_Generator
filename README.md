@@ -1,7 +1,7 @@
 # 🎵 R.A.G.A. - AI Music That Understands You
 
 <div align="center">
-  <img src="/api/placeholder/800/400" alt="Y.M.I.R. Logo" width="600"/>
+  <img src="/api/placeholder/800/400" alt="R.A.G.A. Logo" width="600"/>
   <h3><i>Real-time AI Generated Audio</i></h3>
   <p>Transform your emotions into personalized musical journeys</p>
   
