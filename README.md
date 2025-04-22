@@ -12,7 +12,7 @@
 
 ## ✨ Overview
 
-**Y.M.I.R.** creates music that resonates with your emotional state—in real-time. By analyzing facial expressions through your camera, our AI generates complete songs with custom lyrics, instrumentals, and vocals tailored to how you feel right now.
+**R.A.G.A.** creates music that resonates with your emotional state—in real-time. By analyzing facial expressions through your camera, our AI generates complete songs with custom lyrics, instrumentals, and vocals tailored to how you feel right now.
 
 > *"The app that composes the soundtrack to your emotions"*
 
