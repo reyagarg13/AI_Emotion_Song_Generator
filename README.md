@@ -101,7 +101,7 @@
    python app.py
    ```
 
-5. **Experience Y.M.I.R.**  
+5. **Experience R.A.G.A.**  
    Open your browser and navigate to `http://localhost:5000`
 
 ---
@@ -114,7 +114,7 @@
 
 1. **Capture** - Allow camera access to capture your facial expressions
 2. **Analyze** - Our AI identifies your emotional state
-3. **Generate** - Y.M.I.R. creates lyrics matching your mood
+3. **Generate** - R.A.G.A. creates lyrics matching your mood
 4. **Compose** - A complementary instrumental track is composed
 5. **Synthesize** - AI vocals bring the lyrics to life
 6. **Experience** - Listen to your personalized emotional soundtrack
@@ -124,7 +124,7 @@
 ## 📁 Project Structure
 
 ```
-Y.M.I.R/
+R.A.G.A./
 ├── app.py                  # Main application entry point
 ├── rag_module.py           # Retrieval-Augmented Generation engine
 ├── models/                 # AI model definitions and weights
@@ -181,7 +181,7 @@ Y.M.I.R/
 
 ## 🤝 Contributing
 
-We welcome contributions to make Y.M.I.R. even more powerful and accessible:
+We welcome contributions to make R.A.G.A. even more powerful and accessible:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
