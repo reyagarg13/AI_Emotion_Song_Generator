@@ -1,4 +1,4 @@
-# 🎵 Y.M.I.R. - AI Music That Understands You
+# 🎵 R.A.G.A. - AI Music That Understands You
 
 <div align="center">
   <img src="/api/placeholder/800/400" alt="Y.M.I.R. Logo" width="600"/>
