@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="/api/placeholder/800/400" alt="Y.M.I.R. Logo" width="600"/>
-  <h3><i>Yielding Music for Internal Restoration</i></h3>
+  <h3><i>Real-time AI Generated Audio</i></h3>
   <p>Transform your emotions into personalized musical journeys</p>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
